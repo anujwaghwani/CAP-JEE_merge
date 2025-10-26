@@ -1,6 +1,6 @@
 # CAP-JEE_merge
 So basically I have made a complete working code for extracting application id from cap round pdf and search for all JEE percentiles in all India merit list. this is based on python libraries like numpy,pandas,pypdf2,etc. I have successfully extracted data of my college (GCOEN) which i attached below
-- you can use this code (cap_and_jee.py) for your college too.
+- You can use this code (cap_and_jee.py) for your college too.
 # Benifit of using my code for this purpose\
   - You will get real time progess bar possible via tqdm library (just go to terminal --> pip install tqdm).
   - Made with using many try except so there are no chances of error.
