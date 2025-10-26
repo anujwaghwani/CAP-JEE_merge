@@ -17,7 +17,7 @@ So basically I have made a complete working code for extracting application id f
   - You can convert .csv file to any file extension based on your requirements just go to freeconvert.com and convert it
 
 # Who Am I:-
-- So my name is Anuj waghwani currently studying in 1st year CSE at Government College Of Engineering,Nagpur.
+- So my name is Anuj Waghwani currently studying in 1st year CSE at Government College Of Engineering,Nagpur.
 - This is my First ever public project which i uploaded on GitHUb
 - Let me know if any feedback regarding this project.Waiting for your reviews
 # Thank You
