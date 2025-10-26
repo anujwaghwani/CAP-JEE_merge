@@ -4,7 +4,7 @@ So basically I have made a complete working code for extracting application id f
 # Benifit of using my code for this purpose:-
   - You will get real time progess bar possible via tqdm library (just go to terminal --> pip install tqdm).
   - Made with using many try except so there are no chances of error.
-  # Steps to use the following code
+  # Steps to use the following code:-
  1. Just download the cap round pdf for your college from fe2025.mahacet.org --> Institue Wise Allotment List.
  2. Save the pdf named as CAP.pdf and download it in the folder where this code is pasted to avoid path errors.
  3. Download the JEE pdf from fe2025.mahacet.org --> All India Merit List.
